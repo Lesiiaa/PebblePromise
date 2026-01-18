@@ -4,6 +4,7 @@
 * [Technologies](#technologies-wrench)
 * [Gameplay Preview](#gameplay-preview-desktop_computer)
 * [Installation](#installation-magic_wand)
+* [Documentation](#documentation-bookmark_tabs)
 * [Credits & Resources](#credits--resources-books)
 * [Assets](#assets-paperclip)
 
@@ -39,17 +40,15 @@ The project was developed in **Unreal Engine using Blueprints**.
 
 ## Gameplay Preview :desktop_computer:
 
-### Main Menu
-<img src=""  width="500" />
-
 ### Village
-<img src=""  width="500" />
+<img src="documents/readme_assets/village_1.png"  width="500" />
+<img src="documents/readme_assets/village_2.png"  width="500" />
 
 ### Dialogues
-<img src=""  width="500" />
+<img src="documents/readme_assets/dialogues.gif"  width="500" />
 
 ### Pickable items
-<img src=""  width="500" />
+<img src="documents/readme_assets/pickable-items.gif"  width="500" />
 
 ---
 
@@ -67,6 +66,15 @@ The project was developed in **Unreal Engine using Blueprints**.
    git clone https://github.com/Lesiiaa/PebblePromise.git
    ```
 2. **Open the project in Unreal Engine 5.7**
+---
+
+## Documentation :bookmark_tabs:
+Here you can find documents that describe the game concept and development process.
+- **Game Design Document (GDD)** (only en) 
+[View GDD](documents/PebblePromise_GDD.pdf)
+- **Development Documentation** (only pl)
+[View develoment notes](documents/PebblePromise_dokumentacja.pdf)
+
 ---
 
 ## Credits & Resources :books: 
