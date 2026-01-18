@@ -54,14 +54,19 @@ The project was developed in **Unreal Engine using Blueprints**.
 ---
 
 ## Installation :magic_wand:
+
+### Playing the game (itch.io)
+1. Download the game from [**itch.io**](https://lesiiaa.itch.io/pebble-promise)
+2. Extract the downloaded ZIP archive
+3. Run **PebblePromise.exe**
+4. Enjoy the game!
+
+### Development (Unreal Engine)
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Lesiiaa/PebblePromise.git
    ```
-2. **Open the project in Unreal Engine**
-3. **Open the level *Lvl_MainMenu***
-4. **Run the game!** 
-
+2. **Open the project in Unreal Engine 5.7**
 ---
 
 ## Credits & Resources :books: 
